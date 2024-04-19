@@ -10,6 +10,9 @@ namespace йуцй
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Горкун Олександр");
+            
             double x, y;
             double step = 0.2;
 
